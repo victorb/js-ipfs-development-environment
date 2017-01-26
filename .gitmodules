@@ -10,3 +10,6 @@
 [submodule "packages/libp2p-spdy"]
 	path = packages/libp2p-spdy
 	url = git@github.com:libp2p/js-libp2p-spdy.git
+[submodule "packages/js-ipfs"]
+	path = packages/js-ipfs
+	url = git@github.com:ipfs/js-ipfs.git
