@@ -13,6 +13,3 @@ npm install
 
 echo "## Bootstrap modules"
 ./node_modules/.bin/lerna bootstrap
-
-echo "## Running tests"
-./node_modules/.bin/lerna run test
