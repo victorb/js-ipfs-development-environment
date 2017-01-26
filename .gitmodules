@@ -1,0 +1,9 @@
+[submodule "packages/libp2p-ipfs-nodejs"]
+	path = packages/libp2p-ipfs-nodejs
+	url = git@github.com:ipfs/js-libp2p-ipfs-nodejs.git
+[submodule "packages/libp2p-swarm"]
+	path = packages/libp2p-swarm
+	url = git@github.com:libp2p/js-libp2p-swarm.git
+[submodule "packages/libp2p-multiplex"]
+	path = packages/libp2p-multiplex
+	url = git@github.com:libp2p/js-libp2p-multiplex.git
