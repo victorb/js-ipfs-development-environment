@@ -7,3 +7,6 @@
 [submodule "packages/libp2p-multiplex"]
 	path = packages/libp2p-multiplex
 	url = git@github.com:libp2p/js-libp2p-multiplex.git
+[submodule "packages/libp2p-spdy"]
+	path = packages/libp2p-spdy
+	url = git@github.com:libp2p/js-libp2p-spdy.git
