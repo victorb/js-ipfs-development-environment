@@ -13,3 +13,9 @@
 [submodule "packages/js-ipfs"]
 	path = packages/js-ipfs
 	url = git@github.com:ipfs/js-ipfs.git
+[submodule "packages/interface-ipfs-core"]
+	path = packages/interface-ipfs-core
+	url = git@github.com:ipfs/interface-ipfs-core.git
+[submodule "packages/js-ipfs-api"]
+	path = packages/js-ipfs-api
+	url = git@github.com:ipfs/js-ipfs-api.git
